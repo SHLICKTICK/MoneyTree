@@ -1,0 +1,6 @@
+{
+  "name": "Sprout",
+  "description": "Mindful budgeting & expense tracking app featuring tactile transaction logging, smart envelopes, and mindful spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
